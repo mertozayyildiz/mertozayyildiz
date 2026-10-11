@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on software development<br>🤝 I’m looking for help with find job<br>🌱 I’m currently learning C# and SQL <br>
+🔭 I’m currently working on software development<br>🤝 I’m looking for help with find job<br>
 
 
 ## 🌐 Socials:
